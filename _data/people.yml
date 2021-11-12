@@ -1,0 +1,27 @@
+positions:
+  - positionName: Faculty
+    posiitionMembers:
+    - name: Gary Hsieh
+      lastName: Hsieh
+      email: garyhs@uw.edu
+      title: Associate Professor
+      # img:
+      site: https://faculty.washington.edu/garyhs/
+      
+  - positionName: Current Students
+    posiitionMembers:
+      - name: Gary Hsieh
+        lastName: Hsieh
+        email: garyhs@uw.edu
+        title: Associate Professor
+        # img:
+        site: https://faculty.washington.edu/garyhs/
+
+  - positionName: Alumni
+    posiitionMembers:
+      - name: Gary Hsieh
+        lastName: Hsieh
+        email: garyhs@uw.edu
+        title: Associate Professor
+        # img:
+        site: https://faculty.washington.edu/garyhs/

@@ -1,0 +1,23 @@
+#how are we defining topics
+topics:
+  - science communication
+  - conversational AI
+  - behavior change
+
+
+types:
+  - conference
+  - poster
+  - workshop
+  - book
+  - journal
+
+papers:
+  - title: ""
+    author: ""
+    venue: ""
+    year:
+    topics:
+    type:
+    award: ""
+    link: ""
