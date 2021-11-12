@@ -1,11 +1,10 @@
-title: Your awesome title
+title: Prosocial Lab
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Prosocial Lab
+  # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Prosocial Computing Laboratory, directed by Dr. Gary Hsieh, focuses on the study, design, and development of technologies that enable people to interact in ways that are efficient and welfare-improving.
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  prosociallab
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -49,8 +48,12 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
+ - home.md
+ - publications.md
+ - projects.md
+ - people.md
 
 # Build settings
 theme: minima
