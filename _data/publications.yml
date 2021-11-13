@@ -1,9 +1,13 @@
 #how are we defining topics
 topics:
-  - science communication
-  - conversational AI
   - behavior change
-
+  - conversational agents
+  - reflection
+  - translational and communication of research
+  - online communities and support
+  - civic and local participation
+  - crowdsourcing
+  - collaborative care
 
 types:
   - conference
@@ -13,11 +17,230 @@ types:
   - journal
 
 papers:
-  - title: ""
-    author: ""
-    venue: ""
-    year:
+  - title: "How Activists Are Both Born and Made: An Analysis of Users on Change.org"
+    author: "Shih-Wen Huang, Minhyang (Mia) Suh, Benjamin Mako Hill, Gary Hsieh"
+    venue: CHI
+    year: 2015
+    topics:
+      - Civic & Local Participation
+      - Online Communities & Support
+    type:
+      - conference
+    award: ""
+    link: "https://faculty.washington.edu/garyhs/docs/huang-CHI2015-change.pdf"
+
+  - title: "PlanSourcing: Generating Behavior Change Plans with Friends and Crowds"
+    author: "Elena Agapie, Lucas Colusso, Sean Munson, Gary Hsieh"
+    venue: "CSCW"
+    year: 2016
+    topics:
+      - Behavior Change
+    type:
+      - conference
+    award: ""
+    link: "https://faculty.washington.edu/garyhs/docs/agapie-cscw2016-plansourcing.pdf"
+
+  - title: "You Get Who you Pay For: The Impact of Incentives on Participation Bias"
+    author: "Gary Hsieh, Rafal Kocielnik"
+    venue: "CSCW"
+    year: 2016
+    topics:
+    type:
+      - conference
+    award: "Best Paper Award"
+    link: "https://faculty.washington.edu/garyhs/docs/hsieh-CSCW2016-incentives.pdf"
+
+  - title: "Designing for Future Behaviors: Understanding the Effect of Temporal Distance on Planned Behaviors"
+    author: "Minhyang (Mia) Suh, Gary Hsieh"
+    venue: "CHI"
+    year: 2016
+    topics:
+      - behavior change
+    type: 
+    award: ""
+    link: ""
+
+  - title: "Designing Closeness to Increase Gamers' Performance"
+    author: "Lucas Colusso, Gary Hsieh, Sean A. Munson"
+    venue: "CHI"
+    year: 2016
     topics:
     type:
     award: ""
     link: ""
+
+  - title: "Send Me a Different Message: Utilizing Cognitive Space to Create Engaging Message Triggers"
+    author: "Rafal Kocielnik, Gary Hsieh"
+    venue: "CSCW"
+    year: 2017
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "Designing for Targeted Responder Models: Exploring Barriers to Respond"
+    author: "Kerem Özcan, Dawn Jorgenson, Christian Richard, Gary Hsieh"
+    venue: "CSCW"
+    year: 2017
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "Translational Resources: Reducing the Gap Between Academic Research and HCI Practice"
+    author: "Lucas Colusso, Cynthia Bennett, Gary Hsieh, Sean Munson"
+    venue: "DIS"
+    year: 2017
+    topics:
+    type:
+    award: "Best Paper Honorable Mention"
+    link: ""
+
+  - title: "Crowdsourcing Exercise Plans Aligned with Expert Guielines and Everyday Constraints"
+    author: "Elena Agapie, Bonnie Chinh, Laura R. Pina, Diana Oviedo, Molly C. Welsh, Gary Hsieh, Sean A. Munson"
+    venue: "CHI"
+    year: 2018
+    topics: 
+    type:
+    award: ""
+    link: ""
+
+  - title: "Behavior Change Design Sprints"
+    author: "Lucas Colusso, Tien Do, Gary Hsieh"
+    venue: "DIS"
+    year: 2018
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "Designing for Workplace Reflection: A Chat and Voice-Based Conversational Agent"
+    author: "Rafal Kocielnik, Daniel Avrahami, Jennifer Marlow, Di Lu, Gary Hsieh"
+    venue: "DIS"
+    year: 2018
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "Reflection Companion: A Conversational System for Engaging Users in Reflection on Physical Activity"
+    author: "Rafal Kocielnik, Lilian Xiao, Daniel Avrahami"
+    venue: "IMWUT"
+    year: 2018
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "Chapter 5: Helping Users Reflect on Their Own Health-Related Behaviors"
+    author: "Rafal Kocielnik, Gary Hsieh, Daniel Avrahami"
+    venue: "Studies in Conversational UX Design"
+    year:
+    topics:
+    type:
+      - book
+    award: ""
+    link: ""
+
+  - title: "Reciprocity and Donation: How Article Topic, Quality and Dwell Time Predict Banner Donation on Wikipedia"
+    author: "Rafal Kocielnik, Os Keyes, Jonathan Morgan, Dario Taraborelli, David McDonald, Gary Hsieh"
+    venue: "CSCW"
+    year: 2018
+    topics: 
+    type:
+    award: ""
+    link: ""
+
+  - title: "The 'Had Mores': Exploring Korean Immigrants' Information Behavior and ICT Usage When Settling in the United States"
+    author: "Mia Suh, Gary Hsieh"
+    venue: "ASIS&T"
+    year: 2019
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "r/sciene: Challenges and Opportunities for Online Science Communications"
+    author: "Ridley Jones, Lucas Colusso, Katharina Reinecke, Gary Hsieh"
+    venue: "CHI"
+    year: 2019
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "A Translational Science Model for HCI"
+    author: "Lucas Colusso, Ridley Jones, Sean Munson, Gary Hsieh"
+    venue: "CHI"
+    year: 2019
+    topics:
+    type:
+    award: "Best Paper Award"
+    link: ""
+
+
+  - title: "HarborBot: A Chatbot for Social Needs Screening"
+    author: "Rafal Kocielnik, Elena Agapie, Alexander Argyle, Dennis T. Hsieh, Kabir Yadav, Breena Taira, Gary Hsieh"
+    venue: "AMIA"
+    year: 2019
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "Parallel Journeys of Patients with Cancer and Depression: Challenges and Opportunities for Technology-Enabled Collaborative Care"
+    author: "Jina Suh, Spencer Williams, Jesse R Fann, James Fogarty, Amy M Bauer, Gary Hsieh"
+    venue: "CSCW"
+    year: 2020
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "Understanding Analytics Needs of Video Game Streamers"
+    author: "Keri Mallari, Spencer Williams, Gary Hsieh"
+    venue: "CHI"
+    year: 2021
+    topics:
+    type:
+    award: ""
+    link: ""
+
+
+  - title: "Heuristic Evaluation of Conversational Agents"
+    author: "Raina Langevin, Ross Lordin, Thi Avrahami, Benjamin Cowan, Tad Hirsch, Gary Hsieh"
+    venue: "CHI"
+    year: 2021
+    topics:
+    type:
+    award: "Best Paper Award"
+    link: ""
+
+  - title: "The Effects of User Comments on Science News Engagement"
+    author: "Spencer Williams, Gary Hsieh"
+    venue: "CSCW"
+    year: 2021
+    topics:
+    type:
+    award: ""
+    link: ""
+
+  - title: "Can I Talk to You about Your Social Needs? Understanding Preferences for Conversational User Interface in Health"
+    author: "Rafal Kocielnik, Raina Langevin, James S George, Shota Akenaga, Amelia Wang, Darwin P Jones, Alexander Argyle, Callan Fockele, Layla Anderson, Dennis T Hsieh, Kabir Yadav, Herbert C Duber, Gary Hsieh, Andrea L Hartzler"
+    venue: "CUI"
+    year: 2021
+    topics:
+    type:
+    award: "Best Paper Honorable Mention"
+    link: ""
+
+# TEMPLATE BELOW
+
+  # - title: ""
+  #   author: ""
+  #   venue: ""
+  #   year:
+  #   topics:
+  #   type:
+  #   award: ""
+  #   link: ""
