@@ -1,13 +1,13 @@
 #how are we defining topics
 topics:
-  - behavior change
-  - conversational agents
+  - behavior-change
+  - conversational-agents
   - reflection
-  - translational and communication of research
-  - online communities and support
-  - civic and local participation
+  - translational-and-communication-of-research
+  - online-communities-and-support
+  - civic-and-local-participation
   - crowdsourcing
-  - collaborative care
+  - collaborative-care
 
 types:
   - conference
