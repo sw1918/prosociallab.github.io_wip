@@ -57,126 +57,152 @@ papers:
     topics:
       - behavior change
     type: 
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/suh-CHI2016-future.pdf"
 
   - title: "Designing Closeness to Increase Gamers' Performance"
     author: "Lucas Colusso, Gary Hsieh, Sean A. Munson"
     venue: "CHI"
     year: 2016
-    topics:
+    topics: 
+      - Online communities & support
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/colusso-CHI2016-closeness.pdf"
 
   - title: "Send Me a Different Message: Utilizing Cognitive Space to Create Engaging Message Triggers"
     author: "Rafal Kocielnik, Gary Hsieh"
     venue: "CSCW"
     year: 2017
     topics:
+      - Behavior change
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/kocielnik-CSCW2017-messages.pdf"
 
   - title: "Designing for Targeted Responder Models: Exploring Barriers to Respond"
     author: "Kerem Özcan, Dawn Jorgenson, Christian Richard, Gary Hsieh"
     venue: "CSCW"
     year: 2017
     topics:
+      - Crowdsourcing
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/ozcan_CSCW2017_targetedresponder.pdf"
 
   - title: "Translational Resources: Reducing the Gap Between Academic Research and HCI Practice"
     author: "Lucas Colusso, Cynthia Bennett, Gary Hsieh, Sean Munson"
     venue: "DIS"
     year: 2017
     topics:
+      - Translational research
     type:
+      - conference
     award: "Best Paper Honorable Mention"
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/colusso_dis2017_researchpractice.pdf"
 
   - title: "Crowdsourcing Exercise Plans Aligned with Expert Guielines and Everyday Constraints"
     author: "Elena Agapie, Bonnie Chinh, Laura R. Pina, Diana Oviedo, Molly C. Welsh, Gary Hsieh, Sean A. Munson"
     venue: "CHI"
     year: 2018
-    topics: 
+    topics:
+      - Crowdsourcing
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/agapie-chi2018-exerciseplans.pdf"
 
   - title: "Behavior Change Design Sprints"
     author: "Lucas Colusso, Tien Do, Gary Hsieh"
     venue: "DIS"
     year: 2018
     topics:
+      - Behavior change
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/colusso-dis2018-bcds.pdf"
 
   - title: "Designing for Workplace Reflection: A Chat and Voice-Based Conversational Agent"
     author: "Rafal Kocielnik, Daniel Avrahami, Jennifer Marlow, Di Lu, Gary Hsieh"
     venue: "DIS"
     year: 2018
     topics:
+      - Conversational agents
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/kocielnik-DIS2018-workplacereflection.pdf"
 
   - title: "Reflection Companion: A Conversational System for Engaging Users in Reflection on Physical Activity"
     author: "Rafal Kocielnik, Lilian Xiao, Daniel Avrahami"
     venue: "IMWUT"
     year: 2018
     topics:
+      - Reflection
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/kocielnik-UBICOMP2018-reflection.pdf"
 
   - title: "Chapter 5: Helping Users Reflect on Their Own Health-Related Behaviors"
     author: "Rafal Kocielnik, Gary Hsieh, Daniel Avrahami"
     venue: "Studies in Conversational UX Design"
     year:
     topics:
+      - Reflection
     type:
       - book
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/Ch5_Studies+in+Conversational+UX+Design.pdf"
 
   - title: "Reciprocity and Donation: How Article Topic, Quality and Dwell Time Predict Banner Donation on Wikipedia"
     author: "Rafal Kocielnik, Os Keyes, Jonathan Morgan, Dario Taraborelli, David McDonald, Gary Hsieh"
     venue: "CSCW"
     year: 2018
     topics: 
+      - Online communities and support
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/kocielnik-CSCW2018-donation.pdf"
 
   - title: "The 'Had Mores': Exploring Korean Immigrants' Information Behavior and ICT Usage When Settling in the United States"
     author: "Mia Suh, Gary Hsieh"
     venue: "ASIS&T"
     year: 2019
     topics:
+      - Online communities and support
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/suh-JAIST2018-immigrants.pdf"
 
   - title: "r/sciene: Challenges and Opportunities for Online Science Communications"
     author: "Ridley Jones, Lucas Colusso, Katharina Reinecke, Gary Hsieh"
     venue: "CHI"
     year: 2019
     topics:
+      - Translational research
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/jones-chi2019-rscience.pdf"
 
   - title: "A Translational Science Model for HCI"
     author: "Lucas Colusso, Ridley Jones, Sean Munson, Gary Hsieh"
     venue: "CHI"
     year: 2019
     topics:
+      -Translational research
     type:
+      - conference
     award: "Best Paper Award"
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/colusso-chi2019-translationalmodel.pdf"
 
 
   - title: "HarborBot: A Chatbot for Social Needs Screening"
@@ -184,27 +210,33 @@ papers:
     venue: "AMIA"
     year: 2019
     topics:
+      - Conversational agents
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/kocielnik-AMIA2019-harborbot.pdf"
 
   - title: "Parallel Journeys of Patients with Cancer and Depression: Challenges and Opportunities for Technology-Enabled Collaborative Care"
     author: "Jina Suh, Spencer Williams, Jesse R Fann, James Fogarty, Amy M Bauer, Gary Hsieh"
     venue: "CSCW"
     year: 2020
     topics:
+      - Collaborative care
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/suh-CSCW2020-journeys.pdf"
 
   - title: "Understanding Analytics Needs of Video Game Streamers"
     author: "Keri Mallari, Spencer Williams, Gary Hsieh"
     venue: "CHI"
     year: 2021
     topics:
+      - Online communities and support
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/mallari-chi2021-streamers.pdf"
 
 
   - title: "Heuristic Evaluation of Conversational Agents"
@@ -212,27 +244,33 @@ papers:
     venue: "CHI"
     year: 2021
     topics:
+      - Conversational agents
     type:
+      - conference
     award: "Best Paper Award"
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/langevin-CHI2021-caheuristics.pdf"
 
   - title: "The Effects of User Comments on Science News Engagement"
     author: "Spencer Williams, Gary Hsieh"
     venue: "CSCW"
     year: 2021
     topics:
+      - Translational research
     type:
+      - conference
     award: ""
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/spencer-cscw2022-science.pdf"
 
   - title: "Can I Talk to You about Your Social Needs? Understanding Preferences for Conversational User Interface in Health"
     author: "Rafal Kocielnik, Raina Langevin, James S George, Shota Akenaga, Amelia Wang, Darwin P Jones, Alexander Argyle, Callan Fockele, Layla Anderson, Dennis T Hsieh, Kabir Yadav, Herbert C Duber, Gary Hsieh, Andrea L Hartzler"
     venue: "CUI"
     year: 2021
     topics:
+      - Conversational agents
     type:
+     - conference
     award: "Best Paper Honorable Mention"
-    link: ""
+    link: "https://faculty.washington.edu/garyhs/docs/kocielnik-CUI2021-CUI.pdf"
 
 # TEMPLATE BELOW
 
